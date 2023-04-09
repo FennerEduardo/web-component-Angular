@@ -1,2 +1,2 @@
-# web-component-Angular 
--solo se requiere incluir el app.js en los ficheros y agregar el tag <app-main-form></app-main-form>, donde se necesite el formulario
+# Form Javascript con CDN.GOV
+-Requiere incluir los archivos *js  y agregar el contenido del html, donde se necesite el formulario.
